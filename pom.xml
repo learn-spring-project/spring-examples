@@ -11,6 +11,7 @@
     <modules>
         <module>spring-aop-withproxy</module>
         <module>spring-aop-aspect-annotation</module>
+        <module>spring-aop-with-pojo</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

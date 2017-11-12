@@ -9,12 +9,14 @@
         <module name="aop-demo1" />
         <module name="spring-aop-aspect-annotation" />
         <module name="spring-aop-examples-1" />
+        <module name="spring-aop-with-pojo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="aop-demo1" target="1.5" />
       <module name="spring-aop-aspect-annotation" target="1.5" />
       <module name="spring-aop-examples-1" target="1.5" />
+      <module name="spring-aop-with-pojo" target="1.5" />
       <module name="spring-examples" target="1.5" />
     </bytecodeTargetLevel>
   </component>
