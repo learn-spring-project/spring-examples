@@ -1,13 +1,15 @@
-package spring.aop;
+package spring.aop.annotation;
 
-import org.aspectj.lang.JoinPoint;
-import org.aspectj.lang.annotation.*;
+import org.aspectj.lang.annotation.AfterReturning;
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Before;
+import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.stereotype.Component;
 
 /**
  * Created by Administrator on 2017/11/12.
  */
-//@Component
+@Component("sleepHelper")
 @Aspect
 public class SleepHelper {
     public SleepHelper(){

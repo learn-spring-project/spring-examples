@@ -9,7 +9,8 @@
     <!-- 定义被代理者 -->
     <bean id="person" class="spring.aop.pojo.Person"></bean>
 
-    <aop:config>
+    <!--execution(<修饰符模式>?<返回类型模式><方法名模式>(<参数模式>)<异常模式>?)切点函数 -->
+    <aop:config proxy-target-class="true">
         <aop:aspect ref="sleepHelper">
             <aop:pointcut id="sleepHelpers" expression="execution(* *.sleep(..))" />
             <aop:before pointcut-ref="sleepHelpers" method="beforeSleep" />

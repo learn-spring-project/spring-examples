@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-aop-aspect-annotation" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-aop-with-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop-without-xmlconfig" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-aop-withproxy" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

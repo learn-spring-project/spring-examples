@@ -10,6 +10,7 @@
         <module name="spring-aop-aspect-annotation" />
         <module name="spring-aop-examples-1" />
         <module name="spring-aop-with-pojo" />
+        <module name="spring-aop-without-xmlconfig" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="spring-aop-aspect-annotation" target="1.5" />
       <module name="spring-aop-examples-1" target="1.5" />
       <module name="spring-aop-with-pojo" target="1.5" />
+      <module name="spring-aop-without-xmlconfig" target="1.5" />
       <module name="spring-examples" target="1.5" />
     </bytecodeTargetLevel>
   </component>
