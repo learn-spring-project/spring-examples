@@ -16,13 +16,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="aop-demo1" target="1.8" />
-      <module name="spring-aop-aspect-annotation" target="1.8" />
-      <module name="spring-aop-with-pojo" target="1.8" />
-      <module name="spring-aop-without-xmlconfig" target="1.8" />
-      <module name="spring-examples" target="1.8" />
+      <module name="aop-demo1" target="1.5" />
+      <module name="spring-aop-aspect-annotation" target="1.5" />
+      <module name="spring-aop-with-pojo" target="1.5" />
+      <module name="spring-aop-without-xmlconfig" target="1.5" />
+      <module name="spring-examples" target="1.5" />
       <module name="spring-hibernate-examples" target="1.8" />
-      <module name="spring-jdbc-examples" target="1.8" />
+      <module name="spring-jdbc-examples" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
