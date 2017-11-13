@@ -6,6 +6,8 @@
     <file url="file://$PROJECT_DIR$/spring-aop-with-pojo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-aop-without-xmlconfig" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-aop-withproxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-hibernate-examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc-examples" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

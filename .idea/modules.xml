@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-aop-with-pojo/spring-aop-with-pojo.iml" filepath="$PROJECT_DIR$/spring-aop-with-pojo/spring-aop-with-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-aop-without-xmlconfig/spring-aop-without-xmlconfig.iml" filepath="$PROJECT_DIR$/spring-aop-without-xmlconfig/spring-aop-without-xmlconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-examples.iml" filepath="$PROJECT_DIR$/spring-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-hibernate-examples/spring-hibernate-examples.iml" filepath="$PROJECT_DIR$/spring-hibernate-examples/spring-hibernate-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jdbc-examples/spring-jdbc-examples.iml" filepath="$PROJECT_DIR$/spring-jdbc-examples/spring-jdbc-examples.iml" />
     </modules>
   </component>
 </project>

@@ -13,10 +13,12 @@
         <module>spring-aop-aspect-annotation</module>
         <module>spring-aop-with-pojo</module>
         <module>spring-aop-without-xmlconfig</module>
+        <module>spring-jdbc-examples</module>
+        <module>spring-hibernate-examples</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <org.springframework.version>4.3.12.RELEASE</org.springframework.version>
+        <org.springframework.version>4.2.5.RELEASE</org.springframework.version>
     </properties>
     <dependencies>
         <dependency>
